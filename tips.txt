@@ -1,0 +1,16 @@
+- Sidan har en bredd på 600px (med automatiska marginaler)
+
+- Navigationen nyttjar "inline-block"
+
+- Observera att det är lite "border-radius" i rutan med sidans titel
+
+- Bilden är en cirkel på 300x300 pixlar (observera att den har en "border")
+
+
+
+
+Denna uppgift går ut på att efterlikna en färdig design baserad på en skärmdump. Innehållsmässigt har ni fria tyglar (det måste inte vara om en hund), och det är tillåtet att kopiera text/bild från någon plats. Det viktiga är att efterlikna designen så exakt som det går, så det gäller att vara noga när ni titta igenom skärmdumpen.
+
+Ni finner även en fil med några tips till uppgiften i samma mapp som skärmdumpen.
+
+Sidan ska även vara versionshanterad (minst 10st commits), så börja med att skapa ett repository för uppgiften. Det är även länken till ert (publika!) repository som ni ska lämna in här på Canvas.
