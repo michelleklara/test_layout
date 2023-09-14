@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+
+header {
+    background-color: beige;
+    border-radius: 10px;
+    color: rgb(158, 145, 72);
+    text-align: center;
+    padding: 20px 0;
+
+}
+
+nav {
+    text-align: center;
+    border-bottom: 1px solid grey;
+    padding: 15px;
+}
+
+nav a{
+    text-decoration: dotted;
+    color: #333;
+    padding: 15px 15px;   /*   bra användarupplevelse   för att få bättre yta att klicka på   */
+    /*display: inline-block;*/
+}
+
+main h2 {
+
+    text-align: center;
+}
+
+main img {
+    width: 100%;
+}
+
+.glassbild{
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    overflow: hidden;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+
+footer p {
+    border-top: 1px solid black;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
